@@ -1,6 +1,6 @@
 # Processed Seismic Datasets for the 2020 Elazığ Earthquakes (Mw 6.8 and Mw 5.3)
 
-This repository contains the processed datasets generated during the study of the 2020 Elazığ-Türkiye earthquakes. The data were derived from continuous-time broadband seismic stations, filtered, and segmented using a sliding window technique to analyze the temporal evolution of chaotic parameters.
+This repository contains the processed datasets generated during the study of the 2020 Elazığ-Türkiye earthquakes. The data were derived from 31-day continuous-time broadband seismic station records, filtered, and segmented using a sliding window technique to analyze the temporal evolution of chaotic parameters.
 
 ## Signal Processing and Windowing Details
 To ensure signal continuity and stability for chaotic analysis, the raw seismic records were preprocessed with the following steps:
