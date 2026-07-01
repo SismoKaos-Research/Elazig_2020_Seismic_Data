@@ -43,3 +43,19 @@ The repository includes two processed CSV files representing different seismic e
 ## Data Availability Statement
 * **Raw Data:** The raw seismic waveform data of the 2020 Elazığ-Sivrice earthquake were provided by the AFAD Turkish Earthquake Data Center System (TDVMS). These raw data can be accessed directly from the original provider. (Disaster and Emergency Management Authority (AFAD), Continuous seismic data (2026). URL https://tdvms.afad.gov.tr/continuous_data)
 * **Code Availability:** The customized analytical codes developed for this study are tied to an ongoing platform development and are not publicly shared at this time.
+
+## Citation
+If you use these datasets in your research, please cite the following conference paper:
+
+Z. Çalım, S. Çimen, T. Yıldırım, and Ş. Ersoy, "Analysis and Visualization of Seismic Activity Before and After a Major Earthquake for Earthquake Prediction in High-Risk Areas," 2025 33rd Signal Processing and Communications Applications Conference (SIU), Sile, Istanbul, Turkiye, 2025, pp. 1-4, doi: 10.1109/SIU66497.2025.11111859.
+
+**BibTeX:**
+```bibtex
+@inproceedings{calim2025analysis,
+  author    = {Çalım, Zeynep and Çimen, Sibel and Yıldırım, Tülay and Ersoy, Şükrü},
+  booktitle = {2025 33rd Signal Processing and Communications Applications Conference (SIU)},
+  title     = {Analysis and Visualization of Seismic Activity Before and After a Major Earthquake for Earthquake Prediction in High-Risk Areas},
+  year      = {2025},
+  pages     = {1--4},
+  doi       = {10.1109/SIU66497.2025.11111859}
+}
